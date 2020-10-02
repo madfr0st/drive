@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311164152993",
+    "firebase_url": "https://drive-b67b4.firebaseio.com",
+    "project_id": "drive-b67b4",
+    "storage_bucket": "drive-b67b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311164152993:android:fe7c53062390d4ea7d14e0",
+        "android_client_info": {
+          "package_name": "main.drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311164152993-pq0gj8do7489io285um1hkcb17491a1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbIxkqATRlLB9UJie-U_7p0VMBDRPkIkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311164152993-pq0gj8do7489io285um1hkcb17491a1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
